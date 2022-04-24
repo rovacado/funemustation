@@ -7,6 +7,7 @@ func _ready():
 	var err = ROMDB.load_rom_db() 
 	if err == OK:
 		add_text("All is OK!")
+		# set paid to true by default in Vars.gd, link back to original project under links, and encourage to support instead.
 		if Vars.paid:
 			SceneChanger.change_scene("res://screens/MainMenu.tscn")
 		else:

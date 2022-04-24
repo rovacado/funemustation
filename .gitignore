@@ -1,4 +1,4 @@
 *.translation
 *.*.translation
 .import/
-exports/
+export/

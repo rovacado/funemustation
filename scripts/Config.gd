@@ -28,7 +28,7 @@ func check_config_file(configfile=Vars.data_path+"/settings.ini"):
 
 
 	if not conf.has_section_key("misc", "nickname"):
-		conf.set_value("misc", "nickname", "dannygaray60")
+		conf.set_value("misc", "nickname", "User")
 
 	if not conf.has_section_key("video", "theme"):
 		conf.set_value("video", "theme", "blue")

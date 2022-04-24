@@ -142,7 +142,7 @@ pointing/emulate_touch_from_mouse=true
 [locale]
 
 translations=PoolStringArray( "res://text.en.translation", "res://text.es.translation" )
-locale_filter=[ 0, [  ] ]
+locale_filter=[ 1, [ "en", "es" ] ]
 
 [physics]
 

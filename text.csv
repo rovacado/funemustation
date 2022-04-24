@@ -5,7 +5,7 @@ GAMEDB;Game Database;Base de datos de juegos
 UPDATEDB;Update;Actualizar
 SETTINGS;Settings;Ajustes
 CONFGMPDICONS;Gamepad Icons;Íconos del Gamepad
-CONFREMAP;Keys Binding;Remapeo Controles
+CONFREMAP;Key Bindings;Remapeo Controles
 GMPDKEYBRD;Gamepad / Keyboard;Gamepad / Teclado
 FULLSCREEN;Fullscreen;Pantalla Completa
 VIDEO;Video;Video
@@ -29,7 +29,7 @@ FAVADDED;Favorite Added;Añadido a favoritos
 SETTINGS;Settings;Ajustes
 BACKHOME;Back to home;Regresar a inicio
 BACKLIST;Back to list;Regresar a la lista
-BTNMAPPINGHELP;Click on a button to reassign its action key;Haga click en un botón para reasignar los controles
+BTNMAPPINGHELP;Click on a button to reassign it's action key;Haga click en un botón para reasignar los controles
 KEYBOARD;Keyboard;Teclado
 GAMEPAD;Gamepad;Control de juego
 LANG;Language;Idioma
@@ -42,7 +42,7 @@ GET_GAME_COVERS2;Get Game Art (launchbox);Obtener arte de juegos (launchbox)
 APPLY;Apply;Aplicar
 RESET;Reset;Reiniciar
 NO_AVAILABLE;No available;No disponible
-BTNS_ICONS;Buttons Icons;Iconos de botones
+BTNS_ICONS;Button Icons;Iconos de botones
 MOVE_U;Move Up;Mover Arriba
 MOVE_D;Move Down;Mover Abajo
 MOVE_L;Move Left;Mover Izquierda
