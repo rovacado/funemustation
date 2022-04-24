@@ -1,4 +1,5 @@
 *.translation
 *.*.translation
 .import/
-exports/
+export/
+.vscode/
